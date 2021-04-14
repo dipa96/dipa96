@@ -1,5 +1,5 @@
 ### Hi there, I'm [dipa96!](https://www.linkedin.com/in/ddipa/) 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipa96)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipa96&show_icons=true&theme=radical)
 
 <!--
 **dipa96/dipa96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
