@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ... penetration testing & bug bounty programs
 - 🌱 I’m currently learning ... web application security
-- - ⚡ Fun fact: ... i love pug
+- ⚡ Fun fact: ... i love pug
 <!--
 **dipa96/dipa96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
