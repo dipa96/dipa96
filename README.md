@@ -4,24 +4,22 @@
 
 <div id="badges" align="center">
 
-  <a href="https://www.linkedin.com/in/ddipa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/ddipa/"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://twitter.com/_dipa996" target="_blank">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"
-         alt="X Badge"/>
+  <a href="https://hackerone.com/dipa996/badges"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/>
   </a>
 
-  <a href="https://hackerone.com/dipa996/badges" target="_blank">
-    <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"
-         alt="HackerOne Badge"/>
-  </a>
-
-  <a href="https://bugcrowd.com/h/dipa" target="_blank">
-    <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"
-         alt="Bugcrowd Badge"/>
+  <a href="https://bugcrowd.com/h/dipa"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
   </a>
 
 </div>
